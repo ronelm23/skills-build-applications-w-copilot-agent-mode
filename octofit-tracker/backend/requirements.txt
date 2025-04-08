@@ -1,0 +1,1 @@
+Create the requirements.txt file for the backend with the necessary Python dependencies.
